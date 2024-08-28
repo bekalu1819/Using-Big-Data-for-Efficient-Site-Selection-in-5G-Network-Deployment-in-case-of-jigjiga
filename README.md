@@ -120,10 +120,8 @@ Data is stored in local storage and managed using Python data structures. Interm
 ## Repository Structure
 
 - **/data**: Contains all datasets used in the project.
-- **/notebooks**: Jupyter notebooks for data preprocessing, feature engineering, EDA, and modeling.
-- **/scripts**: Python scripts for data processing and analysis.
-- **/results**: Outputs from analysis, including visualizations and reports.
-- **README.md**: Project overview and documentation.
+- **/notebooks and results**: Jupyter notebooks for data preprocessing, feature engineering, EDA, and modeling.
+-- **README.md**: Project overview and documentation.
 
 
 ---
